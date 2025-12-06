@@ -1,0 +1,24 @@
+div {
+	width: 100px;
+	height: 100px;
+	background-color: lightcoral;
+}
+
+#caja1 {
+	float: left;
+	overflow: overlay;
+}
+
+#caja2 {
+	float: left;
+}
+
+#caja3 {
+	float: right;
+}
+
+.resalto {
+	color: blue;
+	font-weight: bold;
+	font-style: italic;
+}
